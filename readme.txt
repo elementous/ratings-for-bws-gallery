@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: Elementous, dominykasgel, darius_fx
 Donate link: https://www.elementous.com
-Tags: 5 star, rating, post rating, gallery rating, comment rating, rating system, vote, voting, review, reviews, ratings, gallery, image rating
+Tags: 5 star, rating, post rating, gallery rating, comment rating, rating system, vote, votes, voting, review, reviews, ratings, gallery image rating, thumb rating, thumbs, comments, facebook like, like, gallery by bestwebsoft, bws, nextgen
 Requires at least: 3.0.1
 Tested up to: 4.4
 Stable tag: 1.0.0
@@ -12,11 +12,11 @@ This plugin makes Rating Manager plugin fully compatible with BWS Gallery plugin
 
 == Description ==
 
-This plugin is made to add full compatibility of Rating Manager plugin with BWS gallery plugin. Now you can easily add rating form to any BWS gallery and it allows your website visitors to rate every image from any gallery. Every separate gallery page also can be rated. All rating results will be available on statistics page for more convenient way to analyze the rating data for each image and each gallery.
+This plugin is made to add full compatibility between Rating Manager and BWS gallery plugins. Now you can easily add rating form to any BWS gallery and it allows your website visitors to rate every image from any gallery. Every separate gallery page also can be rated. All rating results will be available on statistics page for more convenient way to analyze the rating data for each image and each gallery.
 
-Rating Manager is the most advanced WordPress content and comment rating plugin. It utilizes SVG image technology and it allows you to modify rating form icons easily without any graphical editor. Basically Rating Manager plugin offers unlimited rating form icon variation count, from classical star icon to any integrated SVG icon or SVG icon uploaded by you. Rich snippets for enhanced SEO features, comment rating, comprehensive statistics, feedback form and more functions and features available. Compatible with almost all themes right out of the box. Compatibility with bbPress and BuddyPress.
+Rating Manager is the most advanced WordPress content and comment rating plugin. It utilizes SVG image technology and it allows you to modify rating form icons easily without any graphical editor. Basically Rating Manager plugin offers unlimited rating form icon variation count, from classical star icon to any integrated SVG icon or SVG icon uploaded by you. Rich snippets for enhanced SEO features, comment rating, comprehensive statistics, feedback form and more functions and features available. Compatible with any theme right out of the box.
 
-*This plugin can’t work stand-alone and it requires [Rating Manager](https://www.elementous.com/) plugin and BWS gallery plugin to be installed.*
+* This plugin can’t work stand-alone and it requires [Rating Manager](https://www.elementous.com/) plugin and BWS gallery plugin to be installed.*
 
 = Features =
 
