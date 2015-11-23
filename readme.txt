@@ -48,8 +48,8 @@ Yes. Rating Manager allows you to change rating form icons, colors and size of i
 
 == Screenshots ==
 
-1. Screenshot
-2. Screenshot 2
+1. Gallery images rating
+2. Rating settings
 
 == Changelog ==
 
